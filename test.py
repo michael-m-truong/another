@@ -1,4 +1,4 @@
 def test():
     print('hi')    
 
-    return
+    return 0
